@@ -635,4 +635,10 @@ h3.my-profession{
         max-width: 100%;
     }
 }
-
+.timeline-text{
+    display: flex;
+}
+.timeline-text > img{
+    width: 30px;
+    height: 30px;
+}
